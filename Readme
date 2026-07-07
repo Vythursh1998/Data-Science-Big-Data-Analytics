@@ -1,0 +1,8 @@
+Data Science & Big Data Analytics: Telecommunications Customer Churn Prediction
+A Localized Analysis of the Sri Lankan Telecommunications Market
+
+Objective:This notebook demonstrates a complete, end-to-end data analytics and machine learning lifecycle. Utilizing the IBM Telco Customer Churn dataset, the data is engineered and localized to simulate the Sri Lankan telecommunications market. The analysis covers descriptive exploration, diagnostic statistical testing, predictive modeling, and prescriptive business optimization.
+
+---
+Data Access Methods
+Note for Execution: The following code blocks outline methods for accessing the dataset via Google Drive or Direct Upload.
